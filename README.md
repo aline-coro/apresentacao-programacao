@@ -29,4 +29,4 @@ A aplicação utiliza o método **POST** para envio seguro dos dados de formulá
 
 ## 📊 Commits
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/aline-coro/forms-registration)
-![GitHub last commit](https://img.shields.io/github/last-commit/aline-coro/forms-registration)
+![GitHub last commit](https://img.shields.io/github/last-commit/aline-coro/apresentacao-programacao)
